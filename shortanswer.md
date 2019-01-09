@@ -1,3 +1,5 @@
+https://github.com/jbyer3/week6assessment
+
 1. List 10 Unix Commands and tell me what they do.
   ls - shows files in your current directory (wherever you are when you run it)
   man - brings up the manual for whatever command you add after. Like `man ls`

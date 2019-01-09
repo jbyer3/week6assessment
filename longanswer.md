@@ -1,3 +1,5 @@
+https://github.com/jbyer3/week6assessment
+
 1. What is the difference between PowerShell and Shell Scripting? Is there a reason we would use one over the other?
 THIS QUESTION CAN BE BETTER WORDED
 I understand that the biggest difference between PowerShell(PS from now on) and Shell Scripting(BASH from now on) is that BASH scripts run as executables after you alter their permissions while PS scripts need you to have the PS environment and shell in order to run it. Many machines in programming operate with Linux or OSX so BASH is already installed, making running a script relatively simple and easy regardless of machine. For PS to work we have been running the files in the PS shell just to make it work. I would lean into BASH because it seems like it carries over more and PS would only be useful if you were working in a .NET shop.

@@ -23,6 +23,23 @@ Push to a Branch
   have to type 'git push -u origin [branch name]'
 
 Merge with Master
-  
+  In order to merge with master you COULD push
+  your local changes to GitHub so your remote branch
+  is updated. Then you can go to github and open a pull
+  request, either by clicking the pull request button
+  or by going to the list of branches, finding your branch
+  and opening a pull request their. GitHub will then 
+  check if the branch can be auto merged into master. If 
+  it can, then you're done. If it can't, you have to resolve
+  the conflicts and then do the pull request.
+
 Fork
+  Forking a project is as easy as going to the project you want
+  and then clicking the button that says fork at the top of the 
+  GitHub repo page!
+
 Add a Collaborator
+  in order to add a collaborator in GitHub you go to your project,
+  go to the settings, and type in the email or username of the
+  person you want to add. It will then send them a notification
+  about being added as a collaborator.
